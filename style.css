@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    background-color: #CEA577;
+    color: #342A21;
+    text-align: center;
+    padding: 2vw 5vw;
+}
+
+.parallax{
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.coffee{
+    background-image: url(pictures/coffee.jpg);
+    height: 70vw;
+}
+
+.laptop{
+    background-image: url(pictures/laptop.jpg);
+    height: 60vw;
+}
+
+.work{
+    background-image: url(pictures/work.jpg);
+    height: 60vw;
+}
+
+.label{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+    background-color: #cea577a5;
+    color: #342A21;
+    display:inline-block;
+    padding: 2vw;
+    border-radius: 0.5vw;
+}
+
+.second{
+    background-color: #352F19;
+    color: #DBCCC5;
+    padding: 2vw;
+}
